@@ -1,0 +1,2 @@
+for i in range(1,10):
+    print("INSERT INTO `after_mp_v2`.`after_sentence` ( `id`, `skill_id`, `intent_id`, `corpus`, `type`, `corpus_origin`, `status`, `weight`, `create_time`, `create_user`, `update_time`, `update_user`) VALUES ("+ str(i) +", 666, 60002, '测试数据', 0,  '测试数据', 1,  NULL,now(), 'admin', now(), 'admin') ;")

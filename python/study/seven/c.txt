@@ -1,0 +1,89 @@
+
+    id  42ced4856685493c89a1f0e6b6122b7a
+    userId  admin
+    collaborator  
+    categoryId  5ebdf9868e96c3408455e229
+    name  qlz
+    identifier  qlz
+    icon  images/default.png
+    updateTime  NumberLong1592303439171
+    createTime  NumberLong1592303439171
+    isAvailable  1
+    createddate  ISODate2020-06-16T183039.167+0800
+    lastmodifiedby  system
+    lastmodifieddate  ISODate2020-06-16T183039.172+0800
+
+
+
+
+
+    id  588f84f7434740cf9c2c778fb977a23c
+    kg  
+        ref  kgInstance
+        id  42ced4856685493c89a1f0e6b6122b7a
+    
+    parent  
+        ref  kg-concept
+        id  4a47813fc1184e4c9cbeabf044666203
+    
+    name  3
+    identifier  4
+    desc  777
+    updateTime  NumberLong1592363584178
+    createddate  ISODate2020-06-17T111304.172+0800
+    lastmodifiedby  system
+    lastmodifieddate  ISODate2020-06-17T111304.180+0800
+
+
+
+
+    id  8b8f6749808046909f255ddebca72748
+    kg  
+        ref  kgInstance
+        id  42ced4856685493c89a1f0e6b6122b7a
+    
+    parent  
+        ref  kg-concept
+        id  3e122c43b14a4ed1aa1f85734576a068
+    
+    name  6
+    identifier  6
+    updateTime  NumberLong1592446588138
+    createTime  NumberLong1592446588138
+    createddate  ISODate2020-06-18T101628.018+0800
+    lastmodifiedby  system
+    lastmodifieddate  ISODate2020-06-18T101628.139+0800
+
+
+
+
+
+    id  218bf5f261c643e4bab64b66bdfe01ae
+    type  DATAPROPERTY
+    name  888
+    cnName  88
+    storageName  888
+    range  
+    qaTemplates  
+    enableInverseQa  false
+    inverseQaTemplates  
+    inferiors  
+    properties  
+    concept  
+        ref  kg-concept
+        id  e49bb18da6204e30a4deb6921ac2d1e4
+    
+    dataType  
+        ref  conceptLiteralType
+        id  array
+    
+    createddate  ISODate2020-05-21T085028.327+0800
+    lastmodifiedby  system
+    lastmodifieddate  ISODate2020-05-21T085028.348+0800
+
+
+哈哈哈
+
+张三
+
+历史
