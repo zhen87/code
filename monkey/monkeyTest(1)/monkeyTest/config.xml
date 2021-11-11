@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="gbk"?>
+<config>
+  <!-- 包配置--> 
+ <package>com.smartpad.fourinchne.smart</package>
+  <!-- 主入口配置-->
+  <mainActivity>com.tuya.smart.homepage.view.style4.RoomDetailActivity </mainActivity>
+  <!-- Scheme配置-->   
+   <Scheme></Scheme> 
+  <!-- 白名单配置-->
+  <whiteActivity>
+  com.tuya.smart.hometab.activity.FamilyHomeActivity,
+  com.tuya.smart.panel.webview.activity.SmartDeviceActivity,
+  com.tuya.smart.panel.base.activity.TYRCTSmartPanelActivity,
+  com.tuya.smart.ipc.camera.rnpanel.activity.TYRCTSmartCameraPanelActivity,
+  com.tuya.smart.homepage.view.style4.RoomDetailActivity,
+  com.tuya.smart.homepage.activity.DisagreePrivacySecondConfirmActivity,
+  com.tuya.smart.homepage.activity.ThemeBackgroundSettingActivity,
+  com.tuya.smart.screen.panel.sensor.ui.PanelSensorActivity,
+  com.tuya.smart.screen.panel.activity.StandPanelActivity,
+  com.tuya.smart.scene.action.activity.HouseSceneActivity,
+  com.tuya.smart.scene.main.activity.RecommandActivity,
+  com.tuya.smart.scene.main.activity.DevManualAndSmartActivity,
+  com.tuya.smart.scene.action.activity.ActionCreateListActivity,
+  com.tuya.smart.scene.action.activity.OperateListActivity,
+  com.tuya.smart.scene.condition.activity.ConditionOperateListActivity,
+  com.tuya.smart.scene.condition.activity.DevConditionCreateListActivity,
+  com.tuya.smart.scene.condition.activity.PlaceChooseActivity,
+  com.tuya.smart.scene.condition.activity.PlaceLocationActivity,
+  com.tuya.smart.scene.condition.activity.ConditionCreateListActivity,
+  com.tuya.smart.scene.main.activity.MatrixSceneExecuteActivity,
+  com.tuya.smart.scene.ui.MatrixSceneExecuteActivity,
+  com.tuya.smart.scene.main.activity.SceneSortActivity,
+  com.tuya.smart.scene.edit.activity.ManualAddActivity,
+  com.tuya.smart.scene.edit.activity.ManualEditActivity,
+  com.tuya.smart.scene.edit.activity.SmartAddActivity,
+  com.tuya.smart.scene.edit.activity.SmartEditActivity,
+  com.tuya.smart.scene.action.activity.ActionChooseActivity,
+  com.tuya.smart.scene.action.activity.ChooseSmartActivity,
+  com.tuya.smart.scene.action.activity.ChooseManualActivity,
+  com.tuya.smart.scene.condition.activity.ConditionTimerActivity,
+  com.tuya.smart.scene.condition.activity.ConditionTimerOptionActivity,
+  com.tuya.smart.scene.action.activity.PushOperatorActivity,
+  com.tuya.smart.scene.edit.activity.SceneZigbeeValidateActivity,
+  com.tuya.smart.scene.action.activity.PhoneBuyActivity,
+  com.tuya.smart.scene.edit.activity.EffectivePeriodActivity,
+  com.tuya.smart.scene.action.activity.DelayActivity,
+  com.tuya.smart.scene.condition.activity.FaceDetectActivity,
+  com.tuya.smart.scene.action.activity.DeviceChooseActivity,
+  com.tuya.smart.scene.condition.activity.DoorRecoginitionActivity,
+  com.tuya.smart.scene.condition.activity.ChooseTimeActivity,
+  com.tuya.smart.scene.condition.activity.ConditionValueOperatorActivity,
+  com.tuya.smart.scene.condition.activity.GeofenceSelectActivity,
+  com.tuya.smart.scene.main.activity.SmartCreateActivity,
+  com.tuya.smart.scene.logs.activity.SceneLogsActivity,
+  com.tuya.smart.scene.logs.activity.ExecptionDetailActivity
+ </whiteActivity>
+  <!-- 检查间隔 秒-->
+  <interval>5</interval>
+  <!-- 检查次数-->
+  <Count>8650</Count>
+</config>
